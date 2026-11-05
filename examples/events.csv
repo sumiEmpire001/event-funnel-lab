@@ -1,0 +1,7 @@
+user_id,event,timestamp
+a,view,2026-11-05T10:00:00Z
+a,signup,2026-11-05T10:01:00Z
+a,purchase,2026-11-05T10:02:00Z
+b,view,2026-11-05T10:00:00Z
+b,signup,2026-11-05T10:03:00Z
+c,view,2026-11-05T10:00:00Z
